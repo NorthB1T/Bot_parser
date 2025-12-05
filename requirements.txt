@@ -1,0 +1,10 @@
+beautifulsoup4==4.14.3
+certifi==2025.11.12
+charset-normalizer==3.4.4
+idna==3.11
+pyTelegramBotAPI==4.29.1
+python-dotenv==1.2.1
+requests==2.32.5
+soupsieve==2.8
+typing_extensions==4.15.0
+urllib3==2.6.0
